@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ## my project
 
 ### instant messaging
-> write in 2023
+> in progress
 
 - backend: (golang) [click](https://github.com/rickylin614/im)
 - frontend: (Flutter) [click](https://github.com/rickylin614/flutter_im)
