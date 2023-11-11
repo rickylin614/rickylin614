@@ -1,7 +1,7 @@
 
 # rickylin614
 
-- 👋 Hi, I’m @rickylin614 , is a taiwanese
+- 👋 Hi, I’m @rickylin614 , live in Taiwan.
 - 👀 I’m interested in backend programming
 - 📫 How to reach me :
   - email: syss8895@gmail.com
