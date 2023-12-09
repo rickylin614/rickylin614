@@ -30,4 +30,4 @@ You can click the Preview link to take a look at your changes.
 
 - [nunu](https://github.com/rickylin614/nunu): quick create CRUD template.
 - [jiratool](https://github.com/rickylin614/jiratool): qickyly gen jira issue with fyne UI.
-- [cmongo](https://github.com/rickylin614/common/blob/master/cmongo/model_test.go): mongo tool which eazy to use monogo like orm.
+- [cmongo](https://github.com/rickylin614/common/blob/master/cmongo/model_test.go): mongo tool which use mongo like orm.
